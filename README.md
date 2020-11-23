@@ -1,5 +1,7 @@
 # backapp
 
+![](backapp.gif)
+
 ## Project setup
 ```
 npm install
