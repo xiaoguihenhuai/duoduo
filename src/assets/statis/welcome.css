@@ -1,0 +1,16 @@
+.stagger-visualizer {
+    display: flex;
+    /*flex-wrap: wrap;*/
+    justify-content: center;
+    align-items: center;
+    width: 450px;
+    height: 450px;
+  }
+  
+  .stagger-visualizer div {
+    /*position: absolute;*/
+    width: 64px;
+    height: 128px;
+    border: 1px solid #373535;
+    background-color: #F6F4F2;
+  }

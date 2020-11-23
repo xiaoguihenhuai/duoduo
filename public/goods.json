@@ -1,0 +1,68 @@
+{
+    "data":
+        {
+            "total": 6,
+            "pagenum": 5,
+            "goods": [
+                {
+                    "area": "北海道",
+                    "code": 1,
+                    "name": "北海道",
+                    "name_e": "Hokkaido",
+                    "name_h": "ほっかいどう",
+                    "name_k": "ホッカイドウ",
+                    "status":true
+                },
+                {
+                    "area": "東北",
+                    "code": 2,
+                    "name": "北海道",
+                    "name_e": "Aomori",
+                    "name_h": "あおもりけん",
+                    "name_k": "アオモリケン",
+                    "status":true
+                },
+                {
+                    "area": "関東",
+                    "code": 11,
+                    "name": "埼玉県",
+                    "name_e": "Saitama",
+                    "name_h": "さいたまけん",
+                    "name_k": "サイタマケン",
+                    "status":true
+                },
+                {
+                    "area": "北海道",
+                    "code": 4,
+                    "name": "北海道",
+                    "name_e": "Hokkaido",
+                    "name_h": "ほっかいどう",
+                    "name_k": "ホッカイドウ",
+                    "status":true
+                },
+                {
+                    "area": "東北",
+                    "code": 5,
+                    "name": "北海道",
+                    "name_e": "Aomori",
+                    "name_h": "あおもりけん",
+                    "name_k": "アオモリケン",
+                    "status":true
+                },
+                {
+                    "area": "関東",
+                    "code": 6,
+                    "name": "埼玉県",
+                    "name_e": "Saitama",
+                    "name_h": "さいたまけん",
+                    "name_k": "サイタマケン",
+                    "status":true
+                }
+
+            ]
+        },
+    "meta": {
+        "msg": "获取菜单列表成功",
+        "status": 200
+    }
+}
